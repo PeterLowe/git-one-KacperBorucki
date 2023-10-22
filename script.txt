@@ -1,0 +1,34 @@
+Git Hub
+-Kacper Borucki
+
+1.Init
+git init – makes the repository and creates a hidden folder called .git.
+
+2.Add
+git add - assigns all files in the repository and ready's them to be committed.
+
+3.Status
+git status – shows all files that have been committed and that are yet to be committed.
+
+4.Commit
+git commit – Creates a snapshot of the staged changes along a timeline.
+
+5.Remote
+git remote – Creates a link between your local repository and online repository. (Allows transferring of information)
+ 
+6.Push
+git push – Moves everything from the local repository onto the online repository.
+
+7.Branch
+git branch – used to create “branches” which are used to implement features onto the main.
+
+8.Checkout
+git checkout – allows you to navigate between branches made by git branch.
+
+9.Clone
+git clone – makes a copy of a repository to be able to use it locally.
+ 
+10.Rm
+git rm – Removes a selected file.
+ 
+
